@@ -34,4 +34,4 @@ El proceso de creación de la visualización se detalla en la carpeta de documen
 
 ----
 
-Este trabajo está bajo una licencia internacional Creative Commons Attribution 4.0
+Este trabajo está bajo una licencia [MIT](./LICENSE)
