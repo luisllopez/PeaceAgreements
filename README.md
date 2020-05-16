@@ -1,6 +1,6 @@
 # Reconstrucción económica de los acuerdos de paz
 
-En este informe mostraremos el proceso de realización de una visualización a partir de los datos obtenidos de la base de datos de la universidad de Edinburgh(https://www.peaceagreements.org/search) sobre acuerdos de paz en todo el mundo desde el 1990.
+En este informe mostraremos el proceso de realización de una visualización a partir de los datos obtenidos de la base de datos de la universidad de Edinburgh (https://www.peaceagreements.org/search) sobre acuerdos de paz en todo el mundo desde el 1990.
 
 # Visualización de datos
 
