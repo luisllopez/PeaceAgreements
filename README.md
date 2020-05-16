@@ -4,7 +4,7 @@ En este informe mostraremos el proceso de realización de una visualización a p
 
 # Visualización de datos
 
-La visualización de datos se publica en [Tableau Public](https://public.tableau.com/shared/YKCHNS7Y4?:display_count=y&:origin=viz_share_link). La visualización que nos permita comparar los datos, localizarlos, o detectar posibles patrones en relación a los acuerdos de reconstrucción socioeconómica de las diferentes regiones a los acuerdos de paz, según la fase, el tipo o la naturaleza de conflicto, llegando a a ser útil a los integrantes del proyecto o stakeholders para la toma de decisiones.
+La visualización de datos se publica en [Tableau Public](https://public.tableau.com/shared/YKCHNS7Y4?:display_count=y&:origin=viz_share_link) ynos permite comparar los datos, localizarlos, o detectar posibles patrones en relación a los acuerdos de reconstrucción socioeconómica de las diferentes regiones a los acuerdos de paz, según la fase, el tipo o la naturaleza de conflicto, llegando a a ser útil a los integrantes del proyecto o stakeholders para la toma de decisiones.
 
 [![Visualización](./imagenes/Visualización.png)](https://public.tableau.com/shared/YKCHNS7Y4?:display_count=y&:origin=viz_share_link)
 
