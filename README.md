@@ -24,7 +24,7 @@ El proceso de creación de la visualización se detalla en la carpeta de [docume
 
 * [PAC2](./documentos/PEC2-luilop.pdf) - Exploración del conjunto de datos
 * [PAC3](./documentos/PEC3-luilop.pdf) - Informe de visualización
-* [PAC4](./documentos/PEC3-luilop.pdf) - Presentación de visualización
+* [PAC4](./documentos/PEC4-luilop.pdf) - Presentación de visualización
 
 # Referencias
 
